@@ -10,6 +10,17 @@ input {
     margin: 8px 0;
     box-sizing: border-box;
 }
+select {
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    padding-left: 40px;
+    border: 2px solid red;
+    border-radius: 4px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
 button {
     background-color: #04AA6D;
     border: none;
